@@ -1,7 +1,6 @@
 # STL files viewer
 
-Based on https://www.viewstl.com/
-
+Based on https://www.viewstl.com/plugin/
 ## Setup
 
 ### Turn on the server
