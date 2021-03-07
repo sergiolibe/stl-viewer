@@ -1,0 +1,1 @@
+Place *.STL and *.stl files in this folder
